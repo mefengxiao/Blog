@@ -22,7 +22,7 @@ const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UT
 export const siteConfig: SiteConfig = {
 	title: "HuangXF",
 	subtitle: "Huang的博客",
-	siteURL: "http://www.hxf1.dpdns.org/", // 请替换为你的站点URL，以斜杠结尾
+	siteURL: "https://www.hxf1.dpdns.org/", // 请替换为你的站点URL，以斜杠结尾
 
 	timeZone: SITE_TIMEZONE,
 
